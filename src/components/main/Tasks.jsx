@@ -1,5 +1,5 @@
 import { Droppable } from "../../dnd/Droppable";
-import { Task } from "./task";
+import { Task } from "./Task";
 import { DragDropProvider } from "@dnd-kit/react";
 
 export const Tasks = ({ taskList, setTaskList }) => {
